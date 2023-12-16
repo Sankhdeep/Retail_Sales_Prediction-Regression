@@ -1,7 +1,7 @@
 # Supervised-Learning---Rossmann-Retail-Store-Prediction
 Sales Prediction of Rossmann Store using Regression Algorithms
 
-![image](https://github.com/Sankhdeep/Retail_Sales_Prediction-Regression/assets/119426983/65f2e1e6-a829-43b7-9b1e-83fd2f492294)
+![image](https://github.com/Sankhdeep/Retail_Sales_Prediction-Regression/assets/119426983/598ed323-0ec8-4bbe-b9fa-23bb5c23cc9a)
 
 
 # PROJECT OVERVIEW
