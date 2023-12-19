@@ -17,3 +17,8 @@ To what extend is sales performance influenced by factors like: promotions, comp
 What is an appropriate model to predict sales?
 # Approach
 Our approach follows the generic Data Science process. As we just did in the parts above, the process starts with asking an interesting question. With the case of Rossmann we have identified a case, which is interesting for us because the underlying issue of sales prediction is relevant for all kinds of businesses, too. The second step is to get the data. Then, we will explore our data, which is the usual step to take after obtaining data. We will show plots to illustrate properties, trends, anomalies and patterns of the data. After ploting the first results, we will apply different statistical models and compare them to choose the most performing one. Finally, we will answer our initial questions and discuss future research directions.
+
+
+
+![Capstone Project QR (1)](https://github.com/Sankhdeep/Sales-Prediction-Predicting-sales-of-a-major-store-chain-Rossmann/assets/119426983/f1d8268c-a135-4275-86f6-371a3e97b140)
+
